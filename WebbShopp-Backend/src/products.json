@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "img": "https://media.widforss.se/product-images/L/essential-foods-duck-mini-delights-100-g-0.jpg",
+    "product": "Hund Godis",
+    "price": 99,
+    "stock": 80
+  },
+  {
+    "id": 2,
+    "img": "https://media.zooplus.com/bilder/3/400/rc_spt_dry_pomad_mv_2_de_de_3.jpg",
+    "product": "Hund Mat",
+    "price": 285,
+    "stock": 78
+  },
+  {
+    "id": 3,
+    "img": "https://www.tinybuddy.se/assets/products/940x/instagram/2412637491783702928.jpg",
+    "product": "Regn Jacka",
+    "price": 410,
+    "stock": 70
+  },
+  {
+    "id": 4,
+    "img": "https://www.doggie.se/globalassets/ac978-be-s-00.jpg?ref=41490&w=960",
+    "product": "Sele",
+    "price": 289,
+    "stock": 75
+  },
+  {
+    "id": 5,
+    "img": "https://cdn11.bigcommerce.com/s-ibzrultj27/images/stencil/874x874/products/2986/5741/PHO_PRO_GROUP_CLIP_33343-1__87542.1620166306.jpg?webp",
+    "product": "Leksak",
+    "price": 55,
+    "stock": 0
+  }
+]

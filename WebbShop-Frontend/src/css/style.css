@@ -1,0 +1,79 @@
+
+nav{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: hotpink;
+    height: 150px;
+}
+.navh1{
+    display: flex;
+    justify-content: center;    
+    width: 100%;
+}
+button {
+    background-color: lightpink;
+    color: #666;
+    border-color: #ccc;
+    height: 25px;
+    width: 250px;
+    border-radius: 5px;
+    border-width: 1px;
+    transition: 0.15s;
+    font-weight: bold;
+}
+.disabled-button {
+    background-color: rgb(183, 180, 180); 
+    color: rgb(0, 0, 0);           
+    cursor: not-allowed;    
+}
+.shoppingcart{
+    border-style: solid; 
+    border-color: lightpink;
+    background-color: #eee;
+    box-shadow: 0 0 15px lightpink;
+    color: #666;
+}
+.shoppingcarth2{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+main {
+    display: flex;
+    justify-content: center;
+}
+.mainh2 {
+    display: flex;
+    justify-content: center;    
+    width: 100%;
+}
+.flexproducts{
+    display: flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-bottom: 10px;
+    margin-bottom:3%;
+    width: 70%;
+    border-radius: 5px;
+    border-style: solid; 
+    border-color: lightpink;
+    background-color: #eee;
+    box-shadow: 0 0 15px lightpink;
+    color: #666;
+}
+.cards{
+    border-radius: 5px;
+    border-style: solid; 
+    border-color: rgb(247, 189, 189);
+    background-color: #eee;
+    box-shadow: 0 0 15px lightpink;
+    color: #666;
+}
+.cards > img {
+    width: 200px;                 
+    height: 150px;                
+    object-fit: cover;            
+    margin: 10px;     
+}
